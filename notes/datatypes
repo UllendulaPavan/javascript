@@ -1,0 +1,27 @@
+javascript is dynamically typed language 
+the data type of a variable by element value in it . it can be changed with value . 
+changing one data type to anther datatype iscalled "type casting" there are two type of type casting. implicit and explicit 
+implicit without external force it converts one data type to another 
+explicit we need force to convert one data type to another
+
+there are two classification of datatype in javascript 
+
+1.primitive data type 
+2.
+i.number : number is data type assigined to any numerical value 
+eg: 5,5.369
+ii. string : string is a collection of characters.strong can be respresented by ' or "  
+eg : 'raj',"pavan" 
+ii.boolean : it is used to declare true or false. true is 1 false is 0 
+iv. undefined : it is used to store "undefined" data 
+v.null : it is used to store "null" data 
+
+2.non-primitive data type 
+i.function 
+ii.Arrays 
+iii.objects
+
+
+
+i.number : any numerical data is number , to find datatype of a element we can  se type of operator 
+numbers have some default 
